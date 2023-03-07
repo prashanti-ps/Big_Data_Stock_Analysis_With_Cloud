@@ -20,9 +20,6 @@ Connecting the data warehouse to PowerBI to create multiple visualizations to ge
 ![image](https://user-images.githubusercontent.com/78148121/223528929-d4fc965d-8a97-40e1-8c1d-4fa820c62423.png)
 
 
-## Dimensional Model for BI Schema 
-
-
 
 ## Key Features
 The key features of the project are:  
