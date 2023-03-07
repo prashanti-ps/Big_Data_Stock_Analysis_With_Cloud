@@ -8,11 +8,11 @@ The data source used in this project is the Polygon.io API, which provides real-
 ## Process
 The data pipeline includes the following steps:  
 
-Data collection using Spark on Dataproc from the Polygon.io API.  
-Data optimization using Spark and partitioning it by year, month, and day.  
-Storing the optimized data in GCS.  
-Loading the optimized data from GCS to the data warehouse using Spark on Dataproc and BigQuery.  
-Connecting the data warehouse to PowerBI to create multiple visualizations to get stocks news and history as well as new data.  
+- Data collection using Spark on Dataproc from the Polygon.io API.  
+- Data optimization using Spark and partitioning it by year, month, and day.  
+- Storing the optimized data in GCS.  
+- Loading the optimized data from GCS to the data warehouse using Spark on Dataproc and BigQuery.  
+- Connecting the data warehouse to PowerBI or any visualization tool to create multiple visualizations to get stocks news and history as well as new data.  
 
 
 ## High Level Data Architechture Workflow
@@ -24,6 +24,6 @@ Connecting the data warehouse to PowerBI to create multiple visualizations to ge
 ## Key Features
 The key features of the project are:  
 
-A scalable big data pipeline that improves query response time and provides valuable insights to make better decisions.  
-Automated dashboard updates with real-time stock insights and news, eliminating 80% of manual effort.  
-Enhanced stock data processing by leveraging data optimization techniques, resulting in a 40% increase in processing speed.  
+- A scalable big data pipeline that improves query response time and provides valuable insights to make better decisions.  
+- Automated dashboard updates with real-time stock insights and news, eliminating 80% of manual effort.  
+- Enhanced stock data processing by leveraging data optimization techniques, resulting in a 40% increase in processing speed.  
