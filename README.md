@@ -1,6 +1,6 @@
 # Big Data Stock Tracker (A Data pipeline and Analysis Project)
 
-This project aims to analyze daily and historical stock data of 1500+ stocks to provide valuable insights and improve decision-making. The project leverages tools and technologies such as Spark, Dataproc, Google Cloud Storage, BigQuery, and visualization to implement a scalable big data pipeline.
+This project aims to analyze daily and historical stock data of 1500+ stocks to provide valuable insights and improve decision-making. The project leverages tools and technologies such as Spark, Dataproc, Google Cloud Storage, BigQuery, and visualization to implement a scalable big data pipeline with Python / PySpark.
 
 ## Data Source  
 The data source used in this project is the Polygon.io API, which provides real-time and historical stock data, as well as news data for all stocks. The project also includes historical data of the last 40 years of all stocks' high, low, and end-of-day (EOD) price.
