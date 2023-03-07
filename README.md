@@ -1,1 +1,1 @@
-# Big Data Stock Tracker (A Data pipeling and Analysis Project)
+# Big Data Stock Tracker (A Data pipeline and Analysis Project)
