@@ -20,6 +20,11 @@ The data pipeline includes the following steps:
 ![image](https://user-images.githubusercontent.com/78148121/223528929-d4fc965d-8a97-40e1-8c1d-4fa820c62423.png)
 
 
+## Dimensional Model
+
+![image](https://github.com/prashanti-ps/Big_Data_Stock_Tracker/assets/78148121/314e02da-39a6-4789-a8fd-c0085b9d4677)
+
+
 
 ## Key Features
 The key features of the project are:  
