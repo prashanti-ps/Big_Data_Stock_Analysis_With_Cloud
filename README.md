@@ -1,4 +1,4 @@
-# Big Data Stock Tracker (A Data pipeline and Analysis Project)
+# Big Data Stock Analysis with Cloud (A Data pipeline and Analysis Project)
 
 This project aims to analyze daily and historical stock data of 1500+ stocks to provide valuable insights and improve decision-making. The project leverages tools and technologies such as Spark, Dataproc, Google Cloud Storage, BigQuery, and visualization to implement a scalable big data pipeline with Python / PySpark.
 
