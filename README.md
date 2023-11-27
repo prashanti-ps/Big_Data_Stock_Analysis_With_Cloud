@@ -19,6 +19,9 @@ The data pipeline includes the following steps:
 
 ![image](https://user-images.githubusercontent.com/78148121/223528929-d4fc965d-8a97-40e1-8c1d-4fa820c62423.png)
 
+<img width="1224" alt="image" src="https://github.com/prashanti-ps/Big_Data_Stock_Analysis_With_Cloud/assets/78148121/2b684c1a-7bba-42b3-8a6a-92486a7053d8">
+
+
 
 ## Dimensional Model
 
